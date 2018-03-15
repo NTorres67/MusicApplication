@@ -1,0 +1,27 @@
+﻿body {
+    background-image: url('images/ArtistBackground.jpg');
+    background-position: center center;
+    background-size:contain;
+}
+
+div.caption.artist {
+    background-color:#000000;
+    color:#ffffff;
+}
+
+p.artist-header {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 6vw;
+    font-weight:bold;
+    font-style:italic;
+    text-align:center;
+    color:#ffffff;
+}
+
+
+p.artist-name {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:3vw;
+    font-weight:bold;
+    color:#ffffff;
+}
